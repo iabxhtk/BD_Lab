@@ -91,4 +91,4 @@
 		   OR job_id = 'SA_REP')
 	  AND salary NOT IN(2500,
 						3500,
-						7500)
+					7500)
